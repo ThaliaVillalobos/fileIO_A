@@ -1,0 +1,6 @@
+Average characters per word: 4
+56 words of lenght 2
+56 words of lenght 3
+56 words of lenght 4
+110 words of lenght 11 or longer
+Total number of words in the input file is: 278
